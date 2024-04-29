@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Second Tag on Lifestyle Lab</title>
-    <link>http://localhost:60028/tags/second-tag/</link>
+    <link>https://example.org/tags/second-tag/</link>
     <description>Recent content in Second Tag on Lifestyle Lab</description>
     <image>
       <title>Lifestyle Lab</title>
-      <url>http://localhost:60028/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:60028/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Mar 2024 17:32:59 -0400</lastBuildDate>
-    <atom:link href="http://localhost:60028/tags/second-tag/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/second-tag/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:60028/posts/my-first-post/</link>
+      <link>https://example.org/posts/my-first-post/</link>
       <pubDate>Fri, 29 Mar 2024 17:32:59 -0400</pubDate>
-      <guid>http://localhost:60028/posts/my-first-post/</guid>
+      <guid>https://example.org/posts/my-first-post/</guid>
       <description>Introduction This is bold text, and this is emphasized text.
 Visit the Hugo website!
 Second title Nested title </description>
