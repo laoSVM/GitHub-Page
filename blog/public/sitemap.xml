@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:60028/</loc>
+    <lastmod>2024-03-29T18:40:29-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:60028/test/my-test-post/</loc>
+    <lastmod>2024-03-29T18:40:29-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:60028/test/</loc>
+    <lastmod>2024-03-29T18:40:29-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:60028/tags/first-tag/</loc>
+    <lastmod>2024-03-29T17:32:59-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:60028/posts/my-first-post/</loc>
+    <lastmod>2024-03-29T17:32:59-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:60028/posts/</loc>
+    <lastmod>2024-03-29T17:32:59-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:60028/tags/second-tag/</loc>
+    <lastmod>2024-03-29T17:32:59-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:60028/tags/</loc>
+    <lastmod>2024-03-29T17:32:59-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:60028/archives/</loc>
+  </url><url>
+    <loc>http://localhost:60028/categories/</loc>
+  </url><url>
+    <loc>http://localhost:60028/posts/example/</loc>
+  </url>
+</urlset>
